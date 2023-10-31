@@ -1,0 +1,32 @@
+.container {
+    display: flex;
+    padding: 10px 100px;
+    justify-content: center;
+}
+
+.select {
+    padding: 7px;
+    width: 80px;
+    height: 35px;
+    margin: 10px;
+}
+
+.number {
+    padding-left: 7px;
+    width: 80px;
+    height: 30px;
+    margin: 10px;
+}
+
+.content {
+    padding-left: 7px;
+    width: 200px;
+    height: 30px;
+    margin: 10px;
+}
+
+.button {
+    width: 80px;
+    height: 35px;
+    margin: 10px;
+}

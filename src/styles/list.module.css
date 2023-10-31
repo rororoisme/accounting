@@ -1,0 +1,46 @@
+.container {
+    margin: auto;
+    width: 600px;
+    padding: 10px 100px;
+}
+
+.ul {
+    padding-left: 80px;
+}
+
+.li {
+    display: flex;
+    align-items: center;
+}
+
+.income {
+    color: green;
+}
+
+.expense {
+    color: red;
+}
+.amount {
+    flex-basis: 50px;
+}
+
+.description {
+    flex-basis: 350px;
+    margin: 10px;
+}
+
+.del {
+    margin: 10px;
+}
+
+.total {
+    margin: auto;
+    width: 100px;
+    font-weight: bold;
+}
+
+.button {
+    margin: 20px auto;
+    width: 100px;
+    display: block;
+}
