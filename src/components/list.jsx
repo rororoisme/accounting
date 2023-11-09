@@ -3,6 +3,7 @@ import styles from '../styles/list.module.css';
 import Link from 'next/link';
 
 function List({ transactions, calculateTotal, onDelete }) {
+
     return (
         <div className={styles.container}>
             <ul className={styles.ul}>
